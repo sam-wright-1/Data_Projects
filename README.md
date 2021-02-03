@@ -1,6 +1,6 @@
 # Data_Projects
 
-- [] Data Preperation
+- [x] Data Preperation
 - [x] EDA
 - [] Bagging and Boosting
 - [] Linear Regression
