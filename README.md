@@ -2,6 +2,7 @@
 
 - [x] Data Preperation
 - [x] EDA
+- [] Variable Selection
 - [] Bagging and Boosting
 - [] Linear Regression
 - [] Logistic Regression
